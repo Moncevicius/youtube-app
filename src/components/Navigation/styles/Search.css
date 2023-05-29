@@ -1,0 +1,10 @@
+.search-input {
+    height: 24px;
+    width: 396px;
+}
+
+.search-submit {
+    height: 30px;
+    background: #2F80ED;
+    color: white;
+}

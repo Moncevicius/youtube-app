@@ -1,0 +1,14 @@
+.user {
+    display: inherit;
+    align-items: center;
+    position: relative;
+    left: 10%;
+}
+
+.user-icon {
+    height: 60px;
+    width: 60px;
+    background: url("src/assets/images/userIcon.png") no-repeat;
+    background-size: contain;
+
+}

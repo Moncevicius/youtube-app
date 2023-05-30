@@ -3,3 +3,8 @@
     width: 30px;
     background: #2F80ED url("/src/assets/images/settings.png") no-repeat center;
 }
+
+.sort-popup {
+    position: absolute;
+    top: 85px;
+}
